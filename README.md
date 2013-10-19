@@ -9,7 +9,7 @@ Main purpose of this code is present how to consume RabbitMQ messages by Java UI
 1. Access to [RabbitMQ server](http://www.rabbitmq.com/download.html)
 2. [Maven](http://maven.apache.org/)
 
-## Usaeg ##
+## Usage ##
 
 Clone this, navigate to cloned repo and launch maven command: 
 
